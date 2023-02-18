@@ -1,5 +1,5 @@
 <template>
-  <router-link to="/">홈으로</router-link>
+  <router-link to="/">홈으로이동</router-link>
   <button style="grid-area: ac" @click="connectCalc">저장</button>
   <div class="calculator">
     <div class="result" style="grid-area: result">
